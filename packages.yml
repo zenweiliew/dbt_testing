@@ -1,0 +1,9 @@
+packages:
+  - package: fivetran/zendesk_source
+    version: 0.6.1
+packages:
+  - package: fivetran/stripe
+    version: 0.7.0
+packages:
+  - package: fivetran/stripe_source
+    version: 0.7.1
