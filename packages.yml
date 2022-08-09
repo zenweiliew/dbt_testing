@@ -7,3 +7,6 @@ packages:
 packages:
   - package: fivetran/stripe_source
     version: 0.7.1
+packages:
+  - package: fivetran/zendesk
+    version: 0.8.4
